@@ -39,6 +39,13 @@ const projects = [
         link: "#",
         tags: ["HTML", "CSS", "JavaScript"],
     },
+    {
+        title: "Counter Application",
+        description:
+            "A mobile application for Android & IOS that serves as a counter to keep track of things.",
+        link: "https://github.com/dejesusalex/CounterApp",
+        tags: ["React Native", "Expo", "JavaScript"],
+    },
     // {
     //     title: "Next Project",
     //     description: "Coming soon — I'll add the next thing I build right here.",

@@ -8,5 +8,5 @@
     <circle cx="70" cy="70" r="68" fill="url(#g)"/>
     <text x="70" y="90" text-anchor="middle"
           font-family="Inter, system-ui, sans-serif"
-          font-weight="700" font-size="58" fill="white">YN</text>
+          font-weight="700" font-size="58" fill="white">AD</text>
 </svg>
